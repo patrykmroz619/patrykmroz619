@@ -2,9 +2,7 @@
 
 ⭐ I'm a passionate of web development currently studying computer science at Cardinal Stefan Wyszyński University in Warsaw.
 
-⭐ I like to explore new technologies and develop software solutions.
-
-⭐ More informations about me and most of my projects are available on my website: [patrykmroz.pl](https://patrykmroz.pl)
+⭐ I like to explore new technologies and develop software solutions
 
 ## Languages and Tools:
 
