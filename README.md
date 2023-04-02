@@ -14,7 +14,7 @@
 
 The decentralized application powered by blockchain technology for creating and managing DAOs (decentralized autonomous organizations). **Tech stack: Next.js, NestJS, Solidity, TypeScript.**
 
-![DAO Central 1](./images/dao-central-1.jpg)
+[![DAO Central 1](./images/dao-central-1.jpg)](https://dao-central.vercel.app)
 
 #### 👉 [LIVE: DAO Central app](https://dao-central.vercel.app)
 
@@ -24,7 +24,7 @@ The decentralized application powered by blockchain technology for creating and 
 
 The project of my personal website
 
-![Personal website screenshot](./images/personal-website.jpg)
+[![Personal website screenshot](./images/personal-website.jpg)](https://patrykmroz.pl)
 
 #### 👉 [LIVE: patrykmroz.pl](https://patrykmroz.pl)
 
